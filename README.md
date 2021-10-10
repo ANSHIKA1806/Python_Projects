@@ -1,8 +1,8 @@
-﻿# Are you excited to contribute to Python Projects  😍
+﻿# Are you excited to contribute to Python Projects 
 
 
 
-### How to contribute 😎<br>
+### How to contribute <br>
 
 ❌ Note : don't make pull request unless you are assigned with the issue.<br>
 ❌ Note : while making pull request add issue number with # (for example #78)
